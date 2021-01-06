@@ -1,10 +1,12 @@
-body {
-background-image: url(images/sample_site_background_01.png); 
+body {; 
 text-align: center;
 }
 
-p {font-family: Arial;}
+p {font-family: Arial;
+}
 
-h1 {font-family:Arial;}
+h1 {font-family:Arial;
+}
 
-#slogan {font-family: Arial;}
+#slogan {font-family: Arial;
+}
