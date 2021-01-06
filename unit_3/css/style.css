@@ -1,4 +1,7 @@
-body { text-align: center;}
+body {
+background-image: url(images/sample_site_background_01.png); 
+text-align: center;
+}
 
 p {font-family: Arial;}
 
