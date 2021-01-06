@@ -1,8 +1,7 @@
 body { text-align: center;}
 
+p {font-family: Arial;}
 
-p {font-family: Arial, Helvetica;}
+h1 {font-family:Arial;}
 
-h1 {font-family: 'Open Sans';}
-
-#slogan {font-family: Arial, Helvetica;}
+#slogan {font-family: Arial;}
