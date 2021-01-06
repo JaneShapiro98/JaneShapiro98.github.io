@@ -1,11 +1,13 @@
-body { background-color: #00ff00;
-text-align: center;}
-
-p {font-family: Arial;
+body {
+  text-align: center;
+  background: url("image/sample_site_background-01.png");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
-
-h1 {font-family:Arial;
+hr { 
+  width: 200px;
 }
-
-#slogan {font-family: Arial;
+p {
+  font-size: 22px;
 }
