@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
-  background-size: auto;
+  background-size: contain;
   color: #5e514d;
 }
 
