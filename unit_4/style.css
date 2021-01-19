@@ -32,6 +32,7 @@ font-weight: 400
   background-color: #00b38f;
   padding: 5px;
   white-space: pre-wrap;
+  display: inline;
   color: #ffffff;
   font-family: 'neutra-book';
   font-size: 18px;
