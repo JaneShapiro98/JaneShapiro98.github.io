@@ -30,9 +30,10 @@ font-weight: 400
 
 .button {
   background-color: #00b38f;
-  padding: 5px;
+  padding: 10px;
   white-space: pre-wrap;
   display: inline;
+  border-radius: 20px;
   color: #ffffff;
   font-family: 'neutra-book';
   font-size: 18px;
