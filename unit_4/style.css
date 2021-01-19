@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap');
+
 body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
@@ -35,6 +37,7 @@ font-weight: 200
   font-family: 'neutra-book';
   font-size: 25px;
   font-style: bold;
+  text-transform: capitalize;
   line-height: 1.3;
 }
 
