@@ -28,6 +28,13 @@ font-style: italic;
 font-weight: 400
 }
 
+.button {
+  background-color: #00b38f;
+  font-family: 'neutra-book';
+  font-size: 18px;
+  line-height: 1.3;
+}
+
 hr { 
   width: 200px;
 }
