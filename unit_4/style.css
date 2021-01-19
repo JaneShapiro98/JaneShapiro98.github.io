@@ -62,3 +62,8 @@ a {
   font-family: 'Domine', serif;
   color: #003594;
 }
+
+img {margin-top: 5px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 150px;}
