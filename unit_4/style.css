@@ -4,7 +4,6 @@ body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
   background-size: contain;
-  background-repeat: no-repeat;
   background-attachment: scroll;
   color: #5e514d;
 }
