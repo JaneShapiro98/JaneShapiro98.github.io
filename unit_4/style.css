@@ -4,6 +4,8 @@ body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
   background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
   color: #5e514d;
 }
 
@@ -63,7 +65,7 @@ a {
   color: #003594;
 }
 
-img {margin-top: 5px;
+img {margin-top: 0px;
     margin-bottom: 20px;
     margin-right: 150px;
     margin-left: 150px;}
