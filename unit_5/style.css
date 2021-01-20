@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&family=Raleway:wght@200&display=swap');
+
+body {
+  text-align: center;
+  background: url("images/sample_site_background-01.png");
+  background-size: contain;
+  background-attachment: scroll;
+  color: #5e514d;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+  font-family: 'Domine', serif;
+  font-stretch: 400px;
+  font-size: 30px;
+}
+
+h2{  font-family: 'Domine', serif;
+  font-stretch: 400px;
+  font-style: italic;
+  font-size: 28px;}
+
+h3 { margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:'Raleway', sans-serif;
+    font-size: 22px;
+    line-height: 2em;
+
+.nav {background: #5e514d, .2;
+background-size: auto;}
+
+#slogan {
+font-family: 'Domine', serif;
+font-size: 22px;
+line-height: 1.3;
+font-style: italic;
+font-weight: 200
+}
+
+.button {
+  font-family: 'Domine', serif;
+  background-color: #00b38f;
+  padding: 10px;
+  white-space: pre-wrap;
+  display: inline;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: 'neutra-book';
+  font-size: 25px;
+  font-style: bold;
+  text-transform: capitalize;
+  line-height: 1.3;
+}
+
+hr { 
+  width: 200px;
+}
+p {font-family:'Raleway', sans-serif;
+font-size: 18px;
+line-height: 1.3;
+}
+
+a {
+  font-family: 'Domine', serif;
+  color: #003594;
+}
+
+img {margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 150px;}
+
+.logo {align-items: left}
