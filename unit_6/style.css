@@ -41,7 +41,8 @@ nav {
     border: 1px black solid;
     padding: 2px;
     float: right;   
-    width: 60%;
+    width: 50%;
+    align-content: center;
 }
 aside {
     background-color: #FFC675;
