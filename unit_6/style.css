@@ -43,7 +43,6 @@ nav {
     float: right;   
     width: 62%;
 }
-
 aside {
     background-color: #FFC675;
     border: 1px black solid;
@@ -60,6 +59,7 @@ footer {
     background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
+    clear:both;
 }
 
 h1 {
