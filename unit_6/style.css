@@ -106,11 +106,8 @@ font-weight: 200
   clear:both;
 }
 
-.imagecontainer {
-    background-color: #999;
-    width: 100%;
-    display: inline-block;
-    overflow: hidden;
+.imagewrap {
+    width: 50%;
 }
 
 }
