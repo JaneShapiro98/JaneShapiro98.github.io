@@ -107,10 +107,10 @@ font-weight: 200
 }
 
 .imagewrap {
-    width: 50%;
+    width: 100%;
+    align-content: center;
 }
 
-}
 
 hr { 
   width: 200px;
