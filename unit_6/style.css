@@ -25,7 +25,7 @@ nav {
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
 }
 
 #left {
@@ -118,10 +118,5 @@ a {
   font-family: 'Domine', serif;
   color: #003594;
 }
-
-img {margin-top: 0px;
-    margin-bottom: 20px;
-    margin-right: 150px;
-    margin-left: 150px;}
 
 .logo {align-items: left}
