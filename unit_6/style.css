@@ -33,7 +33,7 @@ nav {
     border: 1px black solid;
     padding: 2px;
     float: left;
-    width: 30%;
+    width: 40%;
 }
 
 #right {
@@ -41,7 +41,7 @@ nav {
     border: 1px black solid;
     padding: 2px;
     float: right;   
-    width: 62%;
+    width: 60%;
 }
 aside {
     background-color: #FFC675;
@@ -76,7 +76,7 @@ h2{  font-family: 'Domine', serif;
 
 h3 { margin-top: 20px;
     font-family:'Raleway', sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 2em;
   }
 
