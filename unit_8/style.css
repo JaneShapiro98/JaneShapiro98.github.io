@@ -128,3 +128,19 @@ a {
   margin-left:18%;
   margin-right: 18%;
 }
+
+media @ (max-width: 800px) {
+
+#left {
+    width: 40%;
+    align-content: center;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+#right {
+    width: 40%;
+    align-content: center;
+    background-color: #ffffff;
+    display: inline-block;
+  }
