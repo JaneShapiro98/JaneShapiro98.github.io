@@ -3,7 +3,7 @@
 body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
-  background-size: contain;
+  background-size: 100%;
   background-attachment: fixed;
   color: #5e514d;
   width: 100%;
