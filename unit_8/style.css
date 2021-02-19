@@ -136,7 +136,6 @@ media @ (max-width: 800px) {
     float: none;
     align-content: center;
     background-color: #ffffff;
-    display: inline-block;
 }
 
 #right {
@@ -144,5 +143,8 @@ media @ (max-width: 800px) {
     float: none;
     align-content: center;
     background-color: #ffffff;
-    display: inline-block;
+  }
+
+  .button {
+    float:none;
   }
