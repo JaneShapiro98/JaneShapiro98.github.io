@@ -115,16 +115,6 @@ font-size: 1em;
 line-height: 1.3;
 }
 
-a {
-  font-family: 'Domine', serif;
-  color: #ffffff;
-  background-color: #00b38f;
-   padding: 5px;
-  white-space: pre-wrap;
-  display: inline;
-  border-radius: 10px;
-}
-
 .logo {align-items: left}
 
 .contact {
