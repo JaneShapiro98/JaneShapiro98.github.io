@@ -38,6 +38,10 @@ a:hover{
   text-decoration: underline;
 }
 
+a:click {
+  text-decoration: italic;
+}
+
 #two_column {
     padding: 20px,5px,5px,10px;
 }
