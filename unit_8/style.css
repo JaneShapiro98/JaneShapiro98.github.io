@@ -40,6 +40,12 @@ nav {
      font-family:'Raleway', sans-serif;
      color: #5e514d;
      display: inline-block; 
+     text-decoration: none;
+}
+
+a:hover{
+  color: green;
+  text-decoration: underline;
 }
 
 #two_column {
