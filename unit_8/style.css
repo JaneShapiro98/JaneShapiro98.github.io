@@ -15,12 +15,14 @@ header {
 }
 
 nav {
+    
     padding: 20px;
     text-transform: uppercase;
     text-align: center;
     background-color: #f0f0f0;
     text-align: justify-all;
-    background-attachment: fixed;
+    font-family:'Raleway', sans-serif;
+    color: #5e514d;
 }
 
 #two_column {
