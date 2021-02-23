@@ -4,8 +4,8 @@ body {
   text-align: center;
   background: url("images/sample_site_background-01.png");
   background-size: 100%;
-  background-attachment: local;
-  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: repeat-y;
   color: #5e514d;
   width: 100%;
 }
@@ -18,7 +18,7 @@ nav {
     padding: 20px;
     text-transform: uppercase;
     text-align: center;
-    background-color: #009CA6;
+    background-color: #0f0f0f;
     text-align: justify-all;
 }
 
