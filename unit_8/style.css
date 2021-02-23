@@ -25,6 +25,18 @@ nav {
     color: #5e514d;
 }
 
+.nav  {   
+    padding: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #f0f0f0;
+    text-align: justify-all;
+    font-family:'Raleway', sans-serif;
+    color: #5e514d;
+}  
+
+
+
 #two_column {
     padding: 20px,5px,5px,10px;
 }
