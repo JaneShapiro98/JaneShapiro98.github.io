@@ -33,6 +33,7 @@ nav {
     font-family:'Raleway', sans-serif;
     color: #5e514d;
     display: inline-block;
+
 }  
 
 .nav a{
@@ -96,12 +97,12 @@ font-weight: 200
 }
 
 .button {
-  font-family: 'Domine', serif;
+  font-family: 'Raleway', sans-serif;
   background-color: #00b38f;
   padding: 10px;
   white-space: pre-wrap;
   display: inline;
-  border-radius: 20px;
+  border-radius: 0px;
   color: #ffffff;
   font-family: 'neutra-book';
   font-size: 25px;
