@@ -14,27 +14,15 @@ header {
     padding: 20px;
 }
 
-nav {
-    
-    padding: 20px;
-    text-transform: uppercase;
-    text-align: center;
-    background-color: #f0f0f0;
-    text-align: justify-all;
-    font-family:'Raleway', sans-serif;
-    color: #5e514d;
-}
 
 .nav  {   
     text-transform: uppercase;
     text-align: center;
     background-color: #f0f0f0;
-    text-align: justify-all;
+    text-align: justify;
     font-family:'Raleway', sans-serif;
     color: #5e514d;
     display: inline-block;
-    padding-left: 5em;
-    padding-right: 5em;
 
 }  
 
