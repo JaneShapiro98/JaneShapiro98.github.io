@@ -26,7 +26,6 @@ nav {
 }
 
 .nav  {   
-    padding: 2em;
     text-transform: uppercase;
     text-align: center;
     background-color: #f0f0f0;
@@ -34,9 +33,13 @@ nav {
     font-family:'Raleway', sans-serif;
     color: #5e514d;
     display: inline-block;
-    shape-margin: 5em;
 }  
 
+.nav a{
+     font-family:'Raleway', sans-serif;
+     color: #5e514d;
+     display: inline-block; 
+}
 
 #two_column {
     padding: 20px,5px,5px,10px;
